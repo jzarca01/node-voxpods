@@ -21,6 +21,12 @@ vox.search(searchTerm);
 vox.getEpisodes(podcastId);
 ```
 
+### Get all lists
+
+```javascript
+vox.getAllLists((limit = 15));
+```
+
 ### Get list
 
 ```javascript
