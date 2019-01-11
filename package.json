@@ -1,0 +1,32 @@
+{
+  "name": "node-voxpods",
+  "version": "1.0.0",
+  "description": "An API for the podcast app Vox Pods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeremie Zarca",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jzarca01/node-voxpods.git"
+  },
+  "keywords": [
+    "vox pods",
+    "podcast",
+    "node",
+    "api"
+  ],
+  "bugs": {
+    "url": "https://github.com/jzarca01/node-voxpods/issues"
+  },
+  "homepage": "https://github.com/jzarca01/node-voxpods#readme"
+}
