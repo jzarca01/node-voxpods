@@ -18,7 +18,7 @@ vox.search(searchTerm);
 ### Get episodes
 
 ```javascript
-vox.getEpisodes(podcastId);
+vox.getEpisodes(showId);
 ```
 
 ### Get all lists
